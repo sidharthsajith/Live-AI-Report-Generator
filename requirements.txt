@@ -1,0 +1,14 @@
+streamlit
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+requests
+beautifulsoup4
+python-docx
+python-pptx
+python-dotenv
+pymongo
+pysqlite3
+groq
