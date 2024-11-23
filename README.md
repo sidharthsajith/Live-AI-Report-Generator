@@ -1,7 +1,3 @@
-Here's the README.md for your Github repository based on the provided code:
-
-**Quick RAG Search**
-
 This is a Streamlit application that allows users to upload documents, crawl websites, and ask questions to retrieve relevant information.  The application utilizes sentence embeddings and a Faiss index for efficient retrieval.
 
 **Features:**
