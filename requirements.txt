@@ -10,5 +10,4 @@ python-docx
 python-pptx
 python-dotenv
 pymongo
-pysqlite3
 groq
